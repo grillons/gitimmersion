@@ -1,1 +1,1 @@
-Hello, test! 
+puts "Hello, #{ARGV.first}!"
